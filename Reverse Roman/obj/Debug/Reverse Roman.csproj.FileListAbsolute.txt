@@ -1,0 +1,6 @@
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\bin\Debug\Reverse Roman.exe.config
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\bin\Debug\Reverse Roman.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\bin\Debug\Reverse Roman.pdb
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\obj\Debug\Reverse Roman.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\obj\Debug\Reverse Roman.pdb
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\9-24\Reverse Roman\Reverse Roman\obj\Debug\Reverse Roman.csprojResolveAssemblyReference.cache
